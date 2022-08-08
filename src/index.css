@@ -1,0 +1,12 @@
+.loading-screen {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 27%, rgba(253,187,45,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loading-screen h1 {
+    color: #fff;
+}
