@@ -23,24 +23,25 @@ html {
 .card {
     border-radius: 30px;
     width: 400px;
+    max-width: 80%;
     height: auto;
     box-shadow: 2px 2px 4px 5px rgba(72, 72, 72, 0.58);
     text-align: center;
 }
 .card-temp {
-    color: rgb(0, 88, 143);
+    color: rgb(0, 71, 121);
 }
 .card-info {
-    margin: 30px;
-    line-height: 40px;
-    color: rgb(0, 88, 143)
+    line-height: 30px;
+    color: rgb(0, 71, 121);
+    line-height: 35px;
 }
 .card-info ul {
     list-style: none;
     font-weight: bold;
 }
 .card-info button {
-    margin: 20px;
+    margin: 20px 0 30px;
     padding: 15px;
     border-radius: 10px;
     background-color: rebeccapurple;
